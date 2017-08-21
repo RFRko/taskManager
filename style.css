@@ -1,0 +1,15 @@
+h1
+{
+    font-size: 15px;
+}
+
+ul
+{
+    padding: 20px;
+}
+
+.wasdone
+{
+    text-decoration: line-through;
+}
+
